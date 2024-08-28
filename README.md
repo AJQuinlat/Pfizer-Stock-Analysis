@@ -1,15 +1,6 @@
 # Pfizer-Stock-Analysis
 Time Series Analysis and Financial Risk Analysis of Pfizer stocks from 2007 to 2024 using R.
 
-### Table of Content
-1. [Contributors](#contributors)
-2. [Presentation Deck](#presentation-deck)
-3. [Introduction](#introduction)
-4. [Methods](#methods)
-5. [Results and Discussion](#results-and-discussion)
-6. [Conclusion and Recommendations](#conclusion)
-7. [Recommendation](#recommendation)
-
 ### Contributors
 - Kyle Capulong
 - Mark Ferreras
